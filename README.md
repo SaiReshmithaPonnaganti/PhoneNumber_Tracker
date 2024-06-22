@@ -15,3 +15,4 @@ After installing the dependencies then run this following command in the termina
  ```bash
      python phonenumber_tracker.py
  ```
+The phone numbers in the python code can be updated.
